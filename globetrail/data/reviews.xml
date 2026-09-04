@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reviews>
+  <review>
+    <cityId>1</cityId>
+    <author>Hana T.</author>
+    <rating>5</rating>
+    <comment>Walking through the Arashiyama bamboo grove at sunrise was the highlight of my whole trip to Japan.</comment>
+  </review>
+  <review>
+    <cityId>1</cityId>
+    <author>Marco D.</author>
+    <rating>4.5</rating>
+    <comment>Fushimi Inari is unmissable, go early to avoid the crowds and get the gates to yourself.</comment>
+  </review>
+  <review>
+    <cityId>2</cityId>
+    <author>Ellie R.</author>
+    <rating>5</rating>
+    <comment>The bungee jump off Kawarau Bridge was terrifying and amazing at the same time. Do it.</comment>
+  </review>
+  <review>
+    <cityId>2</cityId>
+    <author>Josh P.</author>
+    <rating>4.5</rating>
+    <comment>Every direction you look is a postcard. The gondola ride at sunset is worth every dollar.</comment>
+  </review>
+  <review>
+    <cityId>3</cityId>
+    <author>Amara K.</author>
+    <rating>4.5</rating>
+    <comment>Stone Town's spice tours were fascinating and the beaches in the north are unbelievably calm and clear.</comment>
+  </review>
+  <review>
+    <cityId>4</cityId>
+    <author>Sven L.</author>
+    <rating>5</rating>
+    <comment>Saw the northern lights on our second night and spent the next day soaking in the Blue Lagoon. Perfect trip.</comment>
+  </review>
+  <review>
+    <cityId>4</cityId>
+    <author>Nina B.</author>
+    <rating>4</rating>
+    <comment>Prices are steep but the golden circle tour and glacier hike made it worth the splurge.</comment>
+  </review>
+  <review>
+    <cityId>5</cityId>
+    <author>Youssef A.</author>
+    <rating>4.5</rating>
+    <comment>Jemaa el-Fnaa square at night is pure sensory overload in the best way. Bring your bargaining skills.</comment>
+  </review>
+  <review>
+    <cityId>6</cityId>
+    <author>Grace W.</author>
+    <rating>5</rating>
+    <comment>Lake Louise at sunrise looks fake, like a painting. Best hiking trip I have ever taken.</comment>
+  </review>
+  <review>
+    <cityId>6</cityId>
+    <author>Tom H.</author>
+    <rating>4.5</rating>
+    <comment>Spotted a grizzly bear from a safe distance on the Johnston Canyon trail, unforgettable.</comment>
+  </review>
+  <review>
+    <cityId>7</cityId>
+    <author>Priya S.</author>
+    <rating>4.5</rating>
+    <comment>Ubud's rice terraces and the sunrise hike up Mount Batur were both incredible experiences.</comment>
+  </review>
+  <review>
+    <cityId>7</cityId>
+    <author>Liam F.</author>
+    <rating>4.5</rating>
+    <comment>Canggu has such a good mix of surf, cafes, and coworking spots if you want to stay longer term.</comment>
+  </review>
+  <review>
+    <cityId>8</cityId>
+    <author>Sofia M.</author>
+    <rating>5</rating>
+    <comment>Rode tram 28 through the Alfama district and got lost in the best possible way.</comment>
+  </review>
+  <review>
+    <cityId>9</cityId>
+    <author>Daniel K.</author>
+    <rating>4.5</rating>
+    <comment>Hiking Table Mountain then driving to Boulders Beach to see the penguins in one day was unforgettable.</comment>
+  </review>
+  <review>
+    <cityId>10</cityId>
+    <author>Mei C.</author>
+    <rating>4.5</rating>
+    <comment>Visited during the Yi Peng lantern festival and it genuinely brought me to tears, so beautiful.</comment>
+  </review>
+</reviews>
