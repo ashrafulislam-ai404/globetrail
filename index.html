@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GlobeTrail — Discover Your Next Destination</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="hero">
+  <div class="hero-inner">
+    <h1 class="logo">🌍 GlobeTrail</h1>
+    <p class="tagline">Discover your next destination, one city at a time</p>
+  </div>
+</header>
+
+<main class="container">
+
+  <section class="controls">
+    <div class="search-box">
+      <input type="text" id="searchInput" placeholder="Search a city or country...">
+    </div>
+    <div class="tag-filters" id="tagFilters"></div>
+    <div class="sort-box">
+      <label for="sortSelect">Sort by</label>
+      <select id="sortSelect">
+        <option value="rating">Top Rated</option>
+        <option value="name">Name (A-Z)</option>
+      </select>
+    </div>
+  </section>
+
+  <p class="result-count" id="resultCount"></p>
+
+  <div id="loadingState" class="state-message">Loading destinations...</div>
+  <div id="errorState" class="state-message error-message" hidden>Could not load destination data. Please run this project from a local server.</div>
+
+  <section id="cityGrid" class="city-grid"></section>
+
+  <p id="emptyState" class="state-message" hidden>No destinations match your search.</p>
+
+</main>
+
+<footer class="site-footer">
+  <p>Built with HTML, CSS, JavaScript, AJAX, XML &amp; JSON</p>
+</footer>
+
+<div id="modalOverlay" class="modal-overlay" hidden>
+  <div class="modal" role="dialog" aria-modal="true">
+    <button id="modalClose" class="modal-close" aria-label="Close">&times;</button>
+    <div id="modalBody" class="modal-body"></div>
+  </div>
+</div>
+
+<script src="js/script.js"></script>
+</body>
+</html>
